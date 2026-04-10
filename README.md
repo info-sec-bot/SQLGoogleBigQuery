@@ -5,7 +5,7 @@
 # SQLGoogleBigQuery
 - [Overview](#overview)
 - [Notebooks](#programs)
-  - [Analytics](#checkabIPDB)
+  - [Analytics](#Analytics.ipynb)
   - [Joins and Unions](#pyfalconapi)
 ## Overview
 This repository is a collection of Jupyter notebooks written in python to execute SQL queries against various tables in the Google BigQuery database.
