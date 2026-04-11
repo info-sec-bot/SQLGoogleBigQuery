@@ -6,7 +6,7 @@
 - [Overview](#overview)
 - [Notebooks](#programs)
   - [Analytics](Analytics.ipynb)
-  - [Joins and Unions Examples](#pyfalconapi)
+  - [Joins and Unions Examples](Joins&nbsp;and&nbsp;Unions&nbsp;Examples.ipynb)
 ## Overview
 This repository is a collection of Jupyter notebooks written in python to execute SQL queries against various tables in the Google BigQuery database.
 ## Client
