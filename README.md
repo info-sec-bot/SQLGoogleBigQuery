@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="Copy of Google Big Query.png" alt="GoogleBigQuery"  width="300" height="200">
+    <img src="img/SQL.png" alt="GoogleBigQuery"  width="300" height="200">
 </p>
 
 # SQLGoogleBigQuery
