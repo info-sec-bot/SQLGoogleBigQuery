@@ -12,7 +12,6 @@ This repository is a collection of Jupyter notebooks written in python to execut
 ## Client
 #### Create `gcloud service-accounts` in active project
 ### 2. Inline Code
-Use single backticks (`` ` ``) to mention a command within a sentence.
 *   **Example:** Run the `gcloud iam service-accounts create [SA_NAME] 
     --description="[DESCRIPTION]" 
     --display-name="[DISPLAY_NAME]"` command to begin.
