@@ -7,14 +7,13 @@
 - [Notebooks](#programs)
   - [Analytics](Analytics.ipynb)
   - [Joins and Unions Examples](Joins&nbsp;and&nbsp;Unions&nbsp;Examples.ipynb)
+  - [Analytics Exercise](Analytics&nbsp;Exercise.ipynb)
 ## Overview
 This repository is a collection of Jupyter notebooks written in python to execute SQL queries against various tables in the Google BigQuery database.
 ## Client
 #### Create `gcloud service-accounts` in active project
 #### 2. `gcloud cli` commands
-*   `gcloud iam service-accounts create [SA_NAME] 
-    --description="[DESCRIPTION]" 
-    --display-name="[DISPLAY_NAME]"` command to begin.
+*   `gcloud iam service-accounts create [SA_NAME] --description="[DESCRIPTION]" --display-name="[DISPLAY_NAME]"`
 #### Grant BigQuery roles
 #### Only grant privileges required for bigquery client role
 *   `gcloud projects add-iam-policy-binding [PROJECT_ID] --member="serviceAccount:[SA_NAME]@[PROJECT_ID].iam.gserviceaccount.com" --role="roles/bigquery.user"`
